@@ -16,3 +16,7 @@ Added a -robot parameter to enable rotation functionality using a robot.
 * pip install -e .
 * cd ..
 * pip install -e .
+
+## Evaluation
+
+https://drive.google.com/drive/folders/1xtQhluqautwEq4kDU1RqUci0UStzKtfU?usp=sharing
